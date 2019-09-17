@@ -1,0 +1,507 @@
+[
+  {
+    "AlbumName": "Kill 'Em All",
+    "BandName": "Metallica",
+    "Gender": "Trash Metal",
+    "SongNames": [
+      "Hit the Lights",
+      "The Four Horsemen",
+      "Motorbreath",
+      "Jump in the Fire",
+      "(Anesthesia) Pulling Teeth",
+      "Whiplash",
+      "Phantom Lord",
+      "No Remorse",
+      "Seek and Destroy",
+      "Metal Militia",
+      "Am I Evil?",
+      "Blitzkrieg"
+    ],
+    "Songs": 12,
+    "Year": 1983
+  },
+  {
+    "AlbumName": "Ride the Lightning",
+    "BandName": "Metallica",
+    "Gender": "Trash Metal",
+    "SongNames": [
+      "Fight Fire with Fire",
+      "Ride the Lightning",
+      "For Whom the Bell Tolls",
+      "Fade to Black",
+      "Trapped Under Ice",
+      "Escape",
+      "Creeping Death",
+      "The Call of Ktulu"
+    ],
+    "Songs": 8,
+    "Year": 1984
+  },
+  {
+    "AlbumName": "Master of Puppets",
+    "BandName": "Metallica",
+    "Gender": "Trash Metal",
+    "SongNames": [
+      "Battery",
+      "Master of Puppets",
+      "The Thing That Should Not Be",
+      "Welcome Home (Sanitarium)",
+      "Disposable Heroes",
+      "Leper Messiah",
+      "Orion",
+      "Damage, Inc."
+    ],
+    "Songs": 8,
+    "Year": 1986
+  },
+  {
+    "AlbumName": "...And Justice for All",
+    "BandName": "Metallica",
+    "Gender": "Trash Metal",
+    "SongNames": [
+      "Blackened",
+      "…And Justice for All",
+      "Eye of the Beholder",
+      "One",
+      "The Shortest Straw",
+      "Harvester of Sorrow",
+      "The Frayed Ends of Sanity",
+      "To Live Is to Die",
+      "Dyers Eve"
+    ],
+    "Songs": 9,
+    "Year": 1988
+  },
+  {
+    "AlbumName": "The Black Album",
+    "BandName": "Metallica",
+    "Gender": "Heavy Metal",
+    "SongNames": [
+      "Enter Sandman",
+      "Sad but True",
+      "Holier Than Thou",
+      "The Unforgiven",
+      "Wherever I May Roam",
+      "Don't Tread on Me",
+      "Through the Never",
+      "Nothing Else Matters",
+      "Of Wolf and Man",
+      "The God That Failed",
+      "My Friend of Misery",
+      "The Struggle Within"
+    ],
+    "Songs": 12,
+    "Year": 1991
+  },
+  {
+    "AlbumName": "Load",
+    "BandName": "Metallica",
+    "Gender": "Hard Rock",
+    "SongNames": [
+      "Ain't My Bitch",
+      "2 x 4",
+      "The House Jack Built",
+      "Until It Sleeps",
+      "King Nothing",
+      "Hero of the Day",
+      "Bleeding Me",
+      "Cure",
+      "Poor Twisted Me",
+      "Wasting My Hate",
+      "Mama Said",
+      "Thorn Within",
+      "Ronnie",
+      "The Outlaw Torn"
+    ],
+    "Songs": 14,
+    "Year": 1996
+  },
+  {
+    "AlbumName": "ReLoad",
+    "BandName": "Metallica",
+    "Gender": "Hard Rock",
+    "SongNames": [
+      "Fuel",
+      "The Memory Remains",
+      "Devil's Dance",
+      "The Unforgiven II",
+      "Better than You",
+      "Slither",
+      "Carpe Diem Baby",
+      "Bad Seed",
+      "Where The Wild Things Are",
+      "Prince Charming",
+      "Low Man's Lyric",
+      "Attitude",
+      "Fixxxer"
+    ],
+    "Songs": 13,
+    "Year": 1997
+  },
+  {
+    "AlbumName": "St. Anger",
+    "BandName": "Metallica",
+    "Gender": "Nu Metal",
+    "SongNames": [
+      "Frantic",
+      "St. Anger",
+      "Some Kind of Monster",
+      "Dirty Window",
+      "Invisible Kid",
+      "My World",
+      "Shoot Me Again",
+      "Sweet Amber",
+      "The Unnamed Feeling",
+      "Purify",
+      "All Within My Hands"
+    ],
+    "Songs": 11,
+    "Year": 2003
+  },
+  {
+    "AlbumName": "Death Magnetic",
+    "BandName": "Metallica",
+    "Gender": "Trash Metal",
+    "SongNames": [
+      "That Was Just Your Life",
+      "The End of the Line",
+      "Broken, Beat & Scarred",
+      "The Day That Never Comes",
+      "All Nightmare Long",
+      "Cyanide",
+      "The Unforgiven III",
+      "The Judas Kiss",
+      "Suicide & Redemption",
+      "My Apocalypse"
+    ],
+    "Songs": 10,
+    "Year": 2008
+  },
+  {
+    "AlbumName": "Hardwired... to Self-Destruct",
+    "BandName": "Metallica",
+    "Gender": "Trash Metal",
+    "SongNames": [
+      "Hardwired",
+      "Atlas, Rise!",
+      "Now That We're Dead",
+      "Moth into Flame",
+      "Dream No More",
+      "Halo on Fire",
+      "Confusion",
+      "ManUNkind",
+      "Here Comes Revenge",
+      "Am I Savage?",
+      "Murder One",
+      "Spit Out the Bone"
+    ],
+    "Songs": 12,
+    "Year": 2016
+  },
+  {
+    "AlbumName": "Killing Is My Business... And Business Is Good!",
+    "BandName": "Megadeath",
+    "Gender": "Speed Metal",
+    "SongNames": [
+      "Last Rites/Loved To Death",
+      "Killing Is My Business... And Business Is Good!",
+      "The Skull Beneath The Skin",
+      "These Boots",
+      "Rattlehead",
+      "Chosen Ones",
+      "Looking Down The Cross",
+      "Mechanix"
+    ],
+    "Songs": 8,
+    "Year": 1985
+  },
+  {
+    "AlbumName": "Peace Sells... But Who's Buying?",
+    "BandName": "Megadeath",
+    "Gender": "Trash Metal",
+    "SongNames": [
+      "Wake Up Dead",
+      "The Conjuring",
+      "Peace Sells",
+      "Devil´s Island",
+      "Good Mourning/Black Friday",
+      "Bad Omen",
+      "I Ain't Superstitious",
+      "My Last Words",
+      "Wake Up Dead",
+      "The Conjuring",
+      "Peace Sells",
+      "Good Mourning/Black Friday"
+    ],
+    "Songs": 12,
+    "Year": 1986
+  },
+  {
+    "AlbumName": "So Far, So Good... So What!",
+    "BandName": "Megadeath",
+    "Gender": "Trash Metal",
+    "SongNames": [
+      "Into The Lungs Of Hell",
+      "Set the World Afire",
+      "Anarchy In The U.K.",
+      "Mary Jane",
+      "502",
+      "In My Darkest Hour",
+      "Liar",
+      "Hook in mouth"
+    ],
+    "Songs": 8,
+    "Year": 1988
+  },
+  {
+    "AlbumName": "Rust in Peace",
+    "BandName": "Megadeath",
+    "Gender": "Speed Metal",
+    "SongNames": [
+      "Holy Wars...The Punishment Due",
+      "Hangar 18",
+      "Take No Prisoners",
+      "Five Magics",
+      "Poison Was the Cure",
+      "Lucretia",
+      "Tornado of Souls",
+      "Dawn Patrol",
+      "Rust in Peace... Polaris"
+    ],
+    "Songs": 9,
+    "Year": 1990
+  },
+  {
+    "AlbumName": "Countdown to Extinction",
+    "BandName": "Megadeath",
+    "Gender": "Heavy Metal",
+    "SongNames": [
+      "Skin O' My Teeth",
+      "Symphony of Destruction",
+      "Architecture of Aggression",
+      "Foreclosure of a Dream",
+      "Sweating Bullets",
+      "This Was My Life",
+      "Countdown to Extinction",
+      "High Speed Dirt",
+      "Psychotron",
+      "Captive Honour",
+      "Ashes in Your Mouth"
+    ],
+    "Songs": 11,
+    "Year": 1992
+  },
+  {
+    "AlbumName": "Youthanasia",
+    "BandName": "Megadeath",
+    "Gender": "Heavy Metal",
+    "SongNames": [
+      "Reckoning Day",
+      "Train of Consequences",
+      "Addicted to Chaos",
+      "A Tout Le Monde",
+      "Elysian Fields",
+      "The Killing Road",
+      "Blood of Heroes",
+      "Family Tree",
+      "Youthanasia",
+      "I Thought I Knew It All",
+      "Black Curtains",
+      "Victory",
+      "99 ways to die"
+    ],
+    "Songs": 13,
+    "Year": 1994
+  },
+  {
+    "AlbumName": "Cryptic Writings",
+    "BandName": "Megadeath",
+    "Gender": "Hard Rock",
+    "SongNames": [
+      "Trust",
+      "Almost Honest",
+      "Use the Man",
+      "Mastermind",
+      "The Disintegrators",
+      "I'll Get Even",
+      "Sin",
+      "A Secret Place",
+      "Have Cool, Will Travel",
+      "She-Wolf",
+      "Vortex",
+      "FFF"
+    ],
+    "Songs": 12,
+    "Year": 1997
+  },
+  {
+    "AlbumName": "Risk",
+    "BandName": "Megadeath",
+    "Gender": "Metal Industrial",
+    "SongNames": [
+      "Insomnia",
+      "Prince Of Darkness",
+      "Enter The Arena",
+      "Crush 'Em",
+      "Breadline",
+      "The Doctor Is Calling",
+      "I'll Be There",
+      "Wanderlust",
+      "Ecstasy",
+      "Seven",
+      "Time: The Beginning",
+      "Time: The End"
+    ],
+    "Songs": 12,
+    "Year": 1999
+  },
+  {
+    "AlbumName": "The World Needs a Hero",
+    "BandName": "Megadeath",
+    "Gender": "Heavy Metal",
+    "SongNames": [
+      "Disconnect",
+      "The World Needs a Hero",
+      "Moto Psycho",
+      "1000 Times Goodbye",
+      "Burning Bridges",
+      "Promises",
+      "Recipe for Hate... Warhorse",
+      "Losing My Senses",
+      "Dread and the Fugitive Mind",
+      "Silent Scorn",
+      "Return to Hangar",
+      "When"
+    ],
+    "Songs": 12,
+    "Year": 2001
+  },
+  {
+    "AlbumName": "The System Has Failed",
+    "BandName": "Megadeath",
+    "Gender": "Trash Metal",
+    "SongNames": [
+      "Blackmail The Universe",
+      "Die Dead Enough",
+      "Kick The Chair",
+      "The Scorpion",
+      "Tears In A Vial",
+      "I Know Jack",
+      "Back In The Day",
+      "Something That I'm Not",
+      "Truth Be Told",
+      "Of Mice and Men",
+      "Shadow Of Deth",
+      "My Kingdom",
+      "Strange Ways"
+    ],
+    "Songs": 13,
+    "Year": 2004
+  },
+  {
+    "AlbumName": "United Abominations",
+    "BandName": "Megadeath",
+    "Gender": "Trash Metal",
+    "SongNames": [
+      "Sleepwalker",
+      "Washington Is Next!",
+      "Never Walk Alone... A Call to Arms",
+      "United Abominations",
+      "Gears of War",
+      "Blessed Are the Dead",
+      "Play for Blood",
+      "À Tout Le Monde (Set Me Free)",
+      "Amerikhastan",
+      "You're Dead",
+      "Burnt Ice",
+      "Out on the Tiles",
+      "Black Swan",
+      "The Bodies Left Behind",
+      "Special Live Track"
+    ],
+    "Songs": 15,
+    "Year": 2007
+  },
+  {
+    "AlbumName": "Endgame",
+    "BandName": "Megadeath",
+    "Gender": "Trash Metal",
+    "SongNames": [
+      "Dialectic Chaos (Instrumental)",
+      "This Day We Fight!",
+      "44 Minutes",
+      "1,320",
+      "Bite the Hand",
+      "Bodies",
+      "Endgame",
+      "The Hardest Part of Letting Go... Sealed With A Kiss",
+      "Head Crusher",
+      "How the Story Ends",
+      "The Right to Go Insane"
+    ],
+    "Songs": 11,
+    "Year": 2009
+  },
+  {
+    "AlbumName": "Thirteen",
+    "BandName": "Megadeath",
+    "Gender": "Hard Rock",
+    "SongNames": [
+      "Sudden Death",
+      "Public Enemy No. 1",
+      "Whose Life (Is It Anyways?)",
+      "We the People",
+      "Guns, Drugs & Money",
+      "Never Dead",
+      "New World Order",
+      "Fast Lane",
+      "Black Swan",
+      "Wrecker",
+      "Millennium of the Blind",
+      "Deadly Nightshade",
+      "13"
+    ],
+    "Songs": 13,
+    "Year": 2011
+  },
+  {
+    "AlbumName": "Super Collider",
+    "BandName": "Megadeath",
+    "Gender": "Metal Alternativo",
+    "SongNames": [
+      "Kingmaker",
+      "Super Collider",
+      "Burn!",
+      "Built For War",
+      "Off The Edge",
+      "Dance In The Rain",
+      "Beginning Of Sorrow",
+      "The Blackest Crow",
+      "Forget To Remember",
+      "Don't Turn Your Back...",
+      "Cold Sweat"
+    ],
+    "Songs": 11,
+    "Year": 2013
+  },
+  {
+    "AlbumName": "Dystopia",
+    "BandName": "Megadeath",
+    "Gender": "Heavy Metal",
+    "SongNames": [
+      "The Threat Is Real",
+      "Dystopia",
+      "Fatal Illusion",
+      "Death from Within",
+      "Bullet to the Brain",
+      "Post American World",
+      "Poisonous Shadows",
+      "Conquer or Die!",
+      "Lying in State",
+      "The Emperor",
+      "Foreign Policy"
+    ],
+    "Songs": 11,
+    "Year": 2016
+  }
+]
